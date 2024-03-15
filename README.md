@@ -1,1 +1,1 @@
-# Dental-LogBook
+# Dentist-LogBook
